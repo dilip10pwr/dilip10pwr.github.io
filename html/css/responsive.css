@@ -1,0 +1,520 @@
+@media screen and (max-width: 1800px){
+.amazging-feature::before {width: 711px; height: 675px; background-size: 646px;}
+.frature-contain-section {padding-left: 55px;}
+.amazging-feature{ padding: 85px 0;}
+}                     
+  
+@media screen and (max-width: 1600px){
+.amazging-feature { padding: 50px 0;}
+.main-heading h2 {font-size: 40px;line-height: 45px;}
+.amazging-feature::before {background-size: 573px;}
+.padd-bottom-100 {padding-bottom: 50px;}
+.padd-top-90 { padding-top: 50px;}
+.hdr-dost {margin: 16px auto 12px;} 
+.main-heading { margin: 0 auto 50px;}
+.amazging-feature .main-heading { margin: 0 0 50px;}
+.amazging-feature::before {background-size: 550px;}
+.home-banner-contain span {font-size: 30px; line-height: 24px;}
+.home-banner-contain h1 {font-size: 70px; line-height: 50px;padding: 18px 0 20px;}
+.custom-btn { padding: 0 25px; line-height: 47px; height: 50px; font-size: 22px;}
+.home-banner-contain .custom-btn {max-width: 200px;}
+.home-banner-contain p { padding-bottom: 40px;}
+.how-it-icon img {max-width: 60px;}
+.how-it-icon {width: 140px; height: 140px;}  
+.membership-plan .right-img  img{ max-width: 500px;}
+.membership-plan .right-img {right: -20px; top: -65px;}
+.membership-plan { padding-top: 140px; padding-bottom: 140px;}
+.search-row .custom-btn {font-size: 22px;}
+
+
+/*blog post-css*/
+.post-content h3, .title-widget {font-size: 22px;}
+.post-text h4 {font-size: 15px;}
+/*blog post-css*/
+}
+
+@media screen and (max-width: 1400px){   
+.amazging-feature::before {background-size: 534px;}
+.frature-box p { font-size: 14px; line-height: 20px;}
+.frature-contain-section {padding-left: 13%;}
+.membership-plan .right-img {right: 0; top: -14px;}
+.padd-top-90 {padding-top: 40px;}
+.padd-bottom-100 {padding-bottom: 40px;}
+.main-heading h2 {font-size: 35px;line-height: 35px;}
+.how-it-icon img {max-width: 50px;}
+.how-it-icon {width: 120px;	height: 120px;}
+.home-banner-contain h1 {font-size: 55px; line-height: 40px;padding: 18px 0 20px;}
+.home-banner {height: 650px;}
+.home-banner-contain .img-box img{max-height: 390px;}
+.member-box {padding: 30px 15px 30px;margin-bottom: 20px;}
+.membership-plan .main-heading {margin: 0 0 30px;}
+.membership-plan .right-img img {max-width: 338px;}
+.membership-plan {padding-top: 100px;} 
+.header-right .navbar-light .navbar-nav .nav-link { padding: 0 18px;}
+.search-col {padding: 12px 15px;}
+.footer-logo-row {padding: 16px 0;}
+.ftr-links-row {padding-top: 35px; padding-bottom: 15px;}
+.footer-bottom {padding: 18px 0}
+.footer {padding-top: 10px;}
+.membership-plan { padding-top: 40px;}
+.membership-plan .main-heading .hdr-dost { margin: 16px 0 14px;}
+.custom-btn {font-size: 20px;} 
+.search-row .custom-btn {font-size: 20px;}
+
+/*main-section css*/
+.main-section {padding: 60px 0;}
+/*main-section css*/
+
+/*inner-banner*/
+.inner-banner-text h2 {margin-bottom: 15px; font-size: 35px; line-height: 30px;}
+.inner-banner {height: 300px;}
+
+/*profile page css*/
+.account-hdr-box { padding: 15px 20px 10px;}
+.account-right-inner {padding: 20px; }
+.sidebar-link li a {padding: 16px 15px 15px 52px; font-size: 17px;}
+.sidebar-link li a img {left: 20px; top: 15px;}
+/*profile page css*/
+
+/*setting page css*/
+.bdr-form-group{margin-bottom: 20px;}
+/*setting page css*/
+
+/*listing page css*/
+.profile-contain-hdr {font-size: 20px;}
+.main-section.listing-page-middie {padding-bottom: 30px;}
+.single-profile-img-box {padding: 20px;}
+.single-profle-main .account-left .sidebar-section .sidebar-inner-section { padding: 20px;}
+/*listing page css*/
+
+/*single-profle page css*/
+.single-profle-main .account-hdr-box .account-hdr { padding-left: 25px;  font-size: 20px;}
+.single-profle-main .account-hdr-box .account-hdr .icon {font-size: 20px;}
+.single-profle-inner {padding-bottom: 0;}	
+.profile-name-text {font-size: 20px; margin: 10px 0;}
+.single-profle-main .account-left .sidebar-section .sidebar-inner-section.upload-photo-inner {padding-bottom: 10px;}
+/*single-profle page css*/
+
+}
+@media screen and (max-width: 1199px){
+.col-md-8.frature-contain-section { width: 100% !important; flex: 0 0 100%; max-width: 100%;} 
+.amazging-feature::before {display: none;}
+.frature-contain-section {flex: 0 0 100%;	max-width: 100%; padding-left: 15px;}
+.amazging-feature .main-heading {margin: 0 0 30px;}
+.main-heading {margin: 0 auto 30px;}
+.success-story-contain .user-row .duration-box {font-size: 16px;}
+.success-story-contain h5 {	font-size: 20px;line-height: 20px;	margin: 10px 0;}
+.member-box-contain h4 {font-size: 20px; line-height: 15px; margin-bottom: 10px;	margin-top: 15px;}
+.membership-plan .right-img {right: 15px;  top: 0;}
+.how-it-icon img {max-width: 40px;}
+.how-it-icon {width: 100px; height: 100px;}
+.how-it-box-contain h3 {margin: 15px 0 7px 0;}
+.how-it-work .custom-btn { margin-top: 15px;} 
+.home-banner-contain {padding-top: 50px;}
+.home-banner-contain h1 {font-size: 45px; line-height: 38px; padding: 13px 0 10px;}
+.header { padding: 20px 0;}
+.header-right .navbar-light .navbar-nav .nav-link {padding: 0 15px; font-size: 17px;}
+.home-banner-contain span {font-size: 25px; line-height: 20px;}
+.home-banner {height: 550px;}
+
+/*main-section css*/
+.main-section {padding: 50px 0;}
+/*main-section css*/   
+
+/*register page css*/
+.register-left-box {flex: 0 0 60%; max-width: 60%;}
+/*register page css*/
+
+/*inner-banner css*/
+.inner-banner{padding-top: 80px;}
+/*inner-banner css*/
+
+/*listing page css*/
+.main-section.listing-page-middie {padding-bottom: 20px;}
+.profile-detl-box {padding: 15px;}
+.profile-detl-box .text-box p { line-height: 21px}
+.profile-detail-outer{padding-bottom: 20px}
+.search-filter-section.listing-search-filter .search-row{flex-wrap: wrap;}
+.search-filter-section.listing-search-filter .search-col{flex: 0 0 33.33%; max-width: 33.33%; margin-bottom: 20px;}
+.search-filter-section.listing-search-filter .search-col.btn-col {flex: 0 0 100%; max-width: 100%; margin-bottom:0;}
+/*listing page css*/  
+
+/*blog-post css*/
+.post-content h3 {font-weight: 600;}
+.post-content h3, .title-widget {font-size: 18px;}
+/*blog-post css*/ 
+
+}
+@media screen and (min-width: 992px){  
+.sidebar-section .sidebar-btn {display: none; width: 100%;}
+.sidebar-section .sidebar-link-box {display: block;}
+}
+@media screen and (max-width: 991px){ 
+body {font-size: 15px;}
+p{line-height: 24px;}
+.custom-btn {line-height: 43px; height: 45px;}
+.main-heading h2 {font-size: 30px; line-height: 30px;}
+.hdr-dost span { width: 8px;  height: 8px;}
+.hdr-dost span.middle { width: 10px; height: 10px;}
+.success-story-img img {border-radius: 10px; height: 150px;}
+.success-story-contain {padding: 15px;}
+.success-story-contain .user-row .duration-box { font-size: 15px;}
+.success-story-contain h5 {font-size: 18px; line-height: 18px;}
+.success-story-contain .user-row .user-box { padding: 7px 10px; border-radius: 18px;}
+.success-story-box {border-radius: 10px;}
+.member-img-box {width: 100px; height: 100px;}
+.member-box-contain h4 {font-size: 18px; line-height: 15px;  margin-top: 8px; margin-bottom: 5px}
+.member-box-contain span {font-size: 14px;}
+.frature-box-hdr {font-size: 20px;}
+.how-it-box-contain h3 {font-size: 18px; line-height: 21px;}
+.how-it-box { padding: 20px 10px;border-radius: 10px;}
+.home-banner-contain .custom-btn {max-width: 160px;}
+.home-banner-contain p {padding-bottom: 25px;}
+.search-row .custom-btn {padding: 0 8px; border-top-right-radius: 0;border-bottom-right-radius: 14px;}
+.search-col {flex: 0 0 33.33%; max-width: 33.33%;}
+.search-row {border-radius: 14px; flex-wrap: wrap;}
+.search-col:nth-child(3) {border-right: 0;}
+.search-col:nth-child(1), .search-col:nth-child(2) { border-bottom: 1px solid #cfd0d0;}
+.search-col {padding: 8px 15px;}
+.header-links { margin-right: 10px; border-radius: 15px;  padding: 6px 12px;  line-height: 16px; font-size: 14px;}
+.header-right .navbar-light .navbar-nav .nav-link { padding: 0 10px;  font-size: 15px;}
+.hdr-logo img {max-width: 110px;}
+.home-banner-contain {padding-top: 30px;}
+.form-group{margin-bottom: 15px;} 
+
+/*main-section css*/
+.main-section {padding: 40px 0;}
+/*main-section css*/
+
+/*register page css*/
+.reg-form-box {padding: 20px 20px 20px;}
+.form-control {font-size: 15px; line-height: 40px; height: 40px !important; border-radius: 3px;}
+.or-panel span {width: 35px;height: 35px; line-height: 35px; font-size: 13px;}
+.reg-social-row li a {width: 35px; height: 35px; font-size: 14px;}
+.reg-form-box .custom-btn {line-height: 38px; height: 40px; min-width: 110px; padding: 0 12px; font-size: 16px}
+.reg-form-hdr {padding: 10px;font-size: 18px; border-radius: 10px 10px 0 0;}
+/*register page css*/
+
+/*inner-banner*/
+.inner-banner-text h2 {margin-bottom: 15px; font-size: 28px; line-height: 25px;}
+.inner-banner {height: 250px;}
+
+/*profile page css*/
+.my-account-main{flex-wrap: wrap;}
+.account-right, .account-left {flex: 0 0 100%; max-width: 100%;} 
+.sidebar-section .sidebar-btn {width: 100%; border-radius: 10px; height: auto; padding: 3px 15px; font-size: 18px; text-align: left;}
+.account-left {margin-bottom: 20px}
+.sidebar-link{margin: 10px 0 0;}
+.sidebar-link li:first-child a {border-radius: 0;}
+.sidebar-link li:last-child a {border-radius: 0 0 10px 10px;}
+
+/*setting page css*/
+.bdr-form-group {margin-bottom: 20px; padding: 10px 15px 10px;}
+/*setting page css*/
+
+/*switch btn css*/
+.switch {width: 35px; height: 20px;} 
+.switch .slider::before { height: 21px; width: 20px;}
+/*switch btn css*/
+
+/*profile page css*/
+
+/*listing page css*/
+.profile-list-box {margin-bottom: 20px;}
+.profile-detl-row .profile-detl-col { flex: 0 0 50%; max-width: 50%;}
+.profile-detl-section { flex: 0 0 60%; max-width: 60%;}
+.profile-img-section {flex: 0 0 40%; max-width: 40%;}
+.profile-img-section .profile-img-box h3 {font-size: 20px;line-height: 22px;}
+.profile-detl-box .text-box h4 {font-size: 22px; line-height: 22px;}
+.profile-detail-outer {padding-bottom: 0;}
+.search-filter-section.listing-search-filter .search-col:nth-child(1), 
+.search-filter-section.listing-search-filter .search-col:nth-child(2){border-bottom: 0;}
+.search-filter-section.listing-search-filter .search-col label {margin-bottom: 8px; line-height: 15px;}
+.search-filter-section.listing-search-filter .search-col {margin-bottom: 15px;} 
+.search-filter-section.listing-search-filter .custom-btn {margin-top: 5px;}
+/*listing page css*/
+
+/*subscription-plan page css*/
+.subscription-heading h3 {font-size: 22px;line-height: 22px;}
+.subscription-heading .price-row sup {top: -13px;}
+.subscription-heading .price-row span {font-size: 35px; line-height: 35px;}
+.subscription-heading .price-row { margin-bottom: 10px;}
+.subscription-heading {padding: 30px 15px 30px;}
+.subscription-ftr-box {padding: 30px 10px}
+.subscription-ftr-box {padding: 30px 10px;}
+.plan-selec-row {margin-bottom: 30px;} 
+.subscription-box{height: calc(100% - 30px); margin-bottom: 30px;}
+.subscription-main{padding-bottom: 10px;}
+/*subscription-plan page css*/
+
+/*single-profle page csss*/
+.single-profle-main .account-right-contain { margin-bottom: 20px;}
+.upload-photo-row li {flex: 0 0 25%;max-width: 25%;}
+.upload-photo-box img {width: 100%; height: 100px;}
+.single-profle-main .account-left .sidebar-section {margin-bottom: 20px;}
+/*single-profle page csss*/
+
+
+    .post-left-section {order: 2;-webkit-order: 2;}
+    .post-right-section {order: 1;-webkit-order: 1; margin-bottom: 25px;}
+    .widget {margin-bottom: 20px;} 
+    .pic-post {height: 75px;}
+    .post-content h3, .title-widget {font-size: 20px;}
+    .title-widget {margin-bottom: 15px;}
+    .widget-categories li {margin-bottom: 8px;}
+
+
+}  
+    
+@media screen and (min-width: 768px){
+.header-right .collapse.navbar-collapse { display: block;}
+.header-right  .navbar-toggler:not(:disabled):not(.disabled) { display: none;}
+.header-right .navbar-light .navbar-nav{flex-direction: inherit;}
+
+
+}
+
+
+@media screen and (max-width: 767px){
+body {font-size: 14px;} 
+p{padding:0 0 10px; }
+.footer-hdr {margin-bottom: 10px;}
+.ftr-links {margin-bottom: 15px;}
+.footer-bottom {padding: 12px 0;}
+.footer-bottom  p {line-height: 20px;}
+.ftr-logo img{max-width: 110px}
+.social-links li a { width: 30px; height: 30px;}
+.social-links li { padding-right: 10px;}
+.footer::after {top: -25px; height: 25px;}
+.footer {margin-top: 21px; padding-top: 0;}
+.custom-btn {padding: 0 20px; line-height: 34px; height: 35px; font-size: 15px}
+.membership-plan .custom-btn { padding: 0 20px;}
+.membership-plan .main-heading {max-width: 100%; margin: 0 0 20px;}
+.main-heading p {font-size: 14px;}
+.membership-plan .right-img {position: static; width: 100%; display: flex; justify-content: center; padding: 20px 15px 0;}
+.membership-plan {padding-top: 30px;}
+.padd-bottom-100 {padding-bottom: 30px;}
+.padd-top-90 {padding-top: 30px;}
+.main-heading h2 { font-size: 24px; line-height: 29px;}
+.hdr-dost span {width: 6px; height: 6px;  margin: 0 4px;}
+.hdr-dost span.middle {width: 8px; height: 8px;}
+.hdr-dost::after {width: 50px;}
+.hdr-dost {max-width: 120px;}
+.hdr-dost { margin: 8px auto 8px;}
+.membership-plan .main-heading .hdr-dost { margin: 8px 0 8px;}
+.membership-plan .right-img img{width: 100%;}
+.success-story-box {margin-bottom: 20px;}
+.member-box {padding: 25px 15px 20px; margin-top: 35px;}
+.member-img-box { width: 80px; height: 80px;}
+.member-box-contain h4 {font-size: 17px;}
+.frature-box-hdr {font-size: 18px; line-height: 21px}
+.how-it-icon {width: 80px;  height: 80px; border: 4px solid #c2d3fc;}
+.how-it-box-contain h3 { font-size: 17px; line-height: 17px;}
+.how-it-icon img { max-width: 35px;}
+.home-banner-contain h1 {font-size: 30px; line-height: 27px; padding: 9px 0 6px;}
+.home-banner {height: 450px;}
+.home-banner-contain .left-box { flex: 0 0 100%; max-width: 100%; padding-right: 0; position: relative; z-index: 999;}
+.home-banner-contain .img-box{    position: absolute; left: 0; right: 0; margin: auto; opacity: 0.5; max-width: 280px;}
+.home-banner-contain span {font-size: 20px; line-height: 17px;}
+.home-banner-contain p {padding-bottom: 14px; line-height: 24px;}
+.home-banner-contain .custom-btn {max-width: 118px; line-height: 30px;}
+.header-links .text {display: none;}
+.header-links .icon {display: block;} 
+.hdr-logo img {max-width: 90px;}
+.header-links {margin-right: 5px; padding: 6px 2px; line-height: 16px; font-size: 18px; border: 0;}
+.header-links:hover {background: transparent; color: #f22876}
+.header-right .navbar-light .navbar-toggler { position: absolute; right: 15px; background: #fff; border-radius: 3px; padding: 6px 10px; font-size: 20px;  color: #f22876;}
+.header-right .navbar {position: absolute; left: 0; right: 0}
+.header-right .navbar .navbar-collapse {position: absolute; left: 0; right: 0; top: 44px; background: #714cf0;  width: 100%;}
+.header-right .navbar-light .navbar-nav .nav-link { padding: 13px 15px;  border-bottom: 1px solid rgba(255,255,255,0.22); }
+.header-links-box {margin-right: 50px; z-index: 1;}
+.header-right .navbar-light .navbar-nav .nav-item:last-child .nav-link{ border-bottom: 0; } 
+.home-banner-contain {padding-top: 20px;}
+.how-it-work .custom-btn {margin-top: 0;} 
+ .hdr-drop-down-menu .dropdown-item {padding: 6px 15px; font-size: 14px;}
+
+/*custom-radio css*/
+.custom-radio input {width: 18px; height: 18px;}
+.custom-radio {padding-left: 28px; font-size: 14px;}
+.custom-radio .checkmark::after {top: 6px; left: 6px; width: 7px;  height: 7px}
+.custom-radio .checkmark {height: 18px; width: 18px;}
+/*custom-radio css*/
+
+/*main-section css*/
+.main-section {padding: 30px 0;}
+/*main-section css*/
+
+/*register page css*/
+.registration-form-section { flex: 0 0 100%;  max-width: 100%; position: static;}
+.register-left-box {display: none;}
+/*register page css*/  
+
+/*my-account css*/
+.sidebar-section .sidebar-btn {font-size: 16px;}
+.sidebar-link li a {padding: 16px 15px 17px 42px; font-size: 16px;}
+.sidebar-link li a img { max-width: 20px; left: 15px;}
+.account-hdr-box {padding: 15px 15px 10px;} 
+.account-right-inner{padding: 20px 15px;}
+.account-hdr {font-size: 20px;line-height: 22px;}
+.profile-text {width: 60px;}
+.profile-box {font-size: 15px;  padding-right: 60px;}
+.profile-img {width: 40px; height: 40px; margin-right: 6px;}
+/*my-account css*/ 
+
+/*inner-banner*/
+.inner-banner-text h2 {margin-bottom: 10px; font-size:  24px; line-height: 22px;}
+/*inner-banner*/
+
+/*listing-page css*/
+.main-section.listing-page-middie {padding-bottom: 10px;}
+.profile-contain-hdr {font-size: 18px;}
+.profile-bottom-row {padding-top: 10px; margin-top: 5px;}
+.profile-list-box figure {height: 250px;}
+.profile-filter-row { padding: 10px 15px;}
+.profile-img-section {flex: 0 0 100%; max-width: 100%; margin: 0 0 20px;}
+.profile-detl-section{flex: 0 0 100%; max-width: 100%;}
+.profile-img-section .profile-img-box {padding: 15px;}
+.profile-img-section .profile-img-box h3 {font-size: 18px; line-height: 22px;}
+.profile-img-section .profile-img-box p {font-size: 14px; line-height: 20px;}
+.profile-img-section .profile-img-box figure .big-img {border: 3px solid #fff;}
+.profile-img-section .profile-img-box figure {width: 95px; height: 95px;}
+.profile-detl-box .icon-box { width: 50px; height: 50px;}
+.profile-detl-box .icon-box img {max-width: 30px;}
+.profile-detl-box .text-box h4 {font-size: 20px; margin-bottom: 2px;}
+.profile-detl-box .text-box p {font-size: 13px;}
+.profile-detl-box {margin-bottom: 15px;height: calc(100% - 15px);}
+.profile-detail-outer {padding-bottom: 5px;} 
+.search-filter-section.listing-search-filter .search-col .custom-select {height: 45px; line-height: 45px;}
+.search-filter-section.listing-search-filter .custom-btn { font-size: 17px; height: 45px; line-height: 45px;}
+.search-filter-section.listing-search-filter .search-col label{font-size: 14px;}
+/*listing-page css*/               
+
+/*subscription plan css */
+.subscription-heading { padding: 20px 10px;}
+.subscription-heading .price-row sup {top: -11px; font-size: 16px;}
+.subscription-heading h3 {font-size: 20px; line-height: 18px;}
+.subscription-heading .price-row sub {font-size: 12px; bottom: 0;}
+.subscription-desc ul li {line-height: 25px;}
+.subscription-desc {padding: 25px 15px;}
+.subscription-ftr-box .custom-btn { padding: 0 25px; line-height: 30px; height: 35px; font-size: 15px;}
+.subscription-ftr-box {padding: 20px 10px;}
+.subscription-box {height: calc(100% - 20px); margin-bottom: 20px;}
+.subscription-main {padding-bottom: 10px;}
+.plan-selec-row { margin-bottom: 25px;}
+.plan-selec-row ul li {padding: 10px 20px;}
+/*subscription plan css */
+
+/*single-profle css*/
+.single-profle-main .account-hdr-box .account-hdr { font-size: 18px;}
+.single-profle-main .account-left .sidebar-section .sidebar-inner-section {padding: 20px 15px;}
+.single-profile-img {width: 100px; height: 100px;border: 4px solid #d4cbf7;}
+.single-profile-info span {font-size: 14px; line-height: 15px;}
+.single-profile-info span.address i img { max-width: 14px;}
+.single-profile-info span.address i { top: -3px;}
+.profile-name-text { font-size: 18px; margin: 5px 0 12px;}
+.single-profile-like-row .custom-btn {height: 35px; line-height: 33px; font-size: 14px;}
+.single-profile-like-row .like-col i {width: 35px; height: 35px; margin-right: 8px;}
+.single-profile-like-row .like-col i img {max-width: 16px; top: 1px;}
+.single-profile-like-row {max-width: 235px;}
+.single-profle-inner {padding-bottom: 0;}
+/*single-profle css*/
+
+/*single-profile-detail*/
+.profile-detail-contain-hdr {font-size: 17px;line-height: 18px;}
+.profile-detail-contain {font-size: 14px;}
+.profile-detail-contain .custom-btn.light-blue-btn { padding: 0 16px;  font-size: 14px;  height: 35px; line-height: 35px;}
+.profile-detail-status-row .custom-btn { padding: 0 13px; font-size: 14px; height: 35px; line-height: 32px;}
+/*single-profile-detail*/
+
+.faq-card-links::before {top: 0px; width: 25px; height: 25px; font-size: 10px; line-height: 24px;}
+.faq-card {padding: 15px; margin-bottom: 15px;}
+.faq-contain .card-body {line-height: 25px;font-size: 14px;}
+.faq-card-links {font-size: 15px;}
+
+/*blog post-css*/
+.post-left article {margin-bottom: 25px;padding-bottom: 0;}
+.post-text h4 {font-size: 14px;}
+.tag-block a {padding: 2px 15px;  font-size: 13px;} 
+/*blog post-css*/
+
+
+}    
+@media screen and (max-width:575px){ 
+
+/*listing-page css */
+.search-filter-section.listing-search-filter .search-row { margin: 0 -6px;}
+.search-filter-section.listing-search-filter .search-col {padding: 0 6px;}
+/*listing-page css */
+/*single-profle-page css*/
+.upload-photo-row li { flex: 0 0 33.33%; max-width: 33.33%;} 
+/*single-profle-page css*/
+
+ /*single-profile-detail*/
+.media.profile-detail-media {flex-wrap: wrap;}
+.profile-detail-time-row {flex-wrap: wrap;}
+.profile-detail-contain-hdr {text-align: center;}
+.profile-detail-media figure {margin: 0 auto 10px;}
+.profile-detail-contain {flex: 0 0 100%; max-width: 100%; padding:0;}
+.profile-detail-status-row {justify-content: space-between;}
+.profile-detail-time-row {margin: 4px 0 15px;}
+ /*single-profile-detail*/
+
+/*blog post csss*/
+.post-content h3 {font-size: 16px;line-height: 22px;}
+.meta-info-post {margin: 0 10px 8px 0;}
+.ft-social-link {margin-bottom: 8px;}
+.title-widget {font-size: 18px;line-height: 24px;margin-bottom: 10px;}
+.meta-info-post .item-info {padding-left: 8px;margin-left: 8px;}
+/*blog post csss*/
+}     
+
+
+           
+@media screen and (max-width: 479px){
+/*home page search*/
+.search-col {flex: 0 0 100%; max-width: 100%; border-right: 0; padding: 3px 15px}
+.search-col {border-bottom: 1px solid #cfd0d0;}
+.search-col:last-child{border-bottom: 0;}
+.search-row .custom-btn {padding: 5px 8px; font-size: 16px; border-bottom-left-radius: 14px;}  
+/*home page search*/
+
+/*reg-page-css*/  
+.or-linktext {padding-top: 12px; flex: 0 0 100%; max-width: 100%;}
+.reg-form-box .btn-outer {flex-wrap: wrap;}
+.reg-form-box .custom-btn {width: 100%;}
+/*reg-page-css*/       
+
+/*listing page css*/
+.order-filter-box label {margin-right: 10px;}
+.order-filter-box {max-width: 200px;}
+.profile-detl-row .profile-detl-col {flex: 0 0 100%; max-width: 100%;}
+.search-filter-section.listing-search-filter .search-col { flex: 0 0 100%; max-width: 100%; margin-bottom: 10px; border-bottom: 0;}
+/*listing page css*/
+
+/*subscription plan css */
+.plan-selec-row ul li { padding: 7px 12px;}
+.plan-selec-row .custom-radio .checkmark {position: absolute;  top: 5px;}
+.plan-selec-row .custom-radio { font-size: 12px;}
+/*subscription plan css */
+
+/*single profile css */
+.upload-photo-row li { flex: 0 0 50%; max-width: 50%;}
+/*single profile css */
+
+ /*single-profile-detail*/
+.single-profile-detail-main .account-right-contain{padding: 15px}
+.profile-detail-time-row .request-col{width: 100%;}
+.profile-detail-contain .custom-btn.light-blue-btn{justify-content: center;}
+.profile-detail-time-row .calender { margin-bottom: 10px;}
+ /*single-profile-detail*/
+}
+
+@media screen and (max-width: 360px){
+/*listing page css*/
+.order-filter-box { max-width: 100%;}  
+.profile-filter-row {flex-wrap: wrap}
+.profile-filter-row .total-last-box {width: 100%; text-align: center;  margin-bottom: 15px; border: 1px solid #ebeef5; padding: 6px;}
+/*listing page css*/
+
+
+}
